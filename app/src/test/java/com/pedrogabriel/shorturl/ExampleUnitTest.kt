@@ -1,4 +1,4 @@
-package com.jailton.apptemplateproject
+package com.pedrogabriel.shorturl
 
 import org.junit.Test
 
